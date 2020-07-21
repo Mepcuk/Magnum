@@ -18,7 +18,8 @@ Run webserver
   or install Symfony package from symfony.com
 - symfony serve
 
-For API please follow /api
+For API please follow https://127.0.0.1:8000/api
+Saving results to CSV -> follow link https://127.0.0.1:8000/api/products.csv
 
 P.s. if real Chrome webserver not run please check \vendor\symfony\panther\chromedriver-bin\
 1) run script update.sh
