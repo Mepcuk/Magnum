@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} Magnum {% endblock %}
+
+{% block body %}
+
+    <div class="mx-auto" style="width: 485px; margin-top: 25px">
+        <img src="https://www.magnum.lv/lv/img/logo2.png" alt="Magnum">
+    </div>
+    <div class="mx-auto pt4" style="width: 485px;">
+        <form action="{{ path('app_crawler') }}">
+            <button type="submit" class="btn btn-primary center">Crawler, please be patient and wait</button>
+        </form>
+    </div>
+
+{% endblock %}
