@@ -19,7 +19,7 @@ class CrawlerController extends AbstractController
      */
     public function index()
     {
-        set_time_limit(30);
+        set_time_limit(6000);
         $count = 0;
 
         $catalogRepository = $this->getDoctrine()->getRepository(Catalog::class);

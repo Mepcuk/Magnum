@@ -1,0 +1,100 @@
+title,positionNumber,productCode,priceWoVAT,updatedAt,catalog
+"Orfarin 3 mg tabletes",NVD11R.2.1.1,00-0042,0.0602,2020-07-21T13:18:41+00:00,/api/catalogs/579
+"Orfarin 5 mg tabletes",NVD11R.2.1.2,00-0043,0.0724,2020-07-21T13:18:48+00:00,/api/catalogs/579
+"Heparīna nātrijs Panpharma 25000 SV/5 ml šķīdums injekcijām flakonos",NVD11R.2.1.3,99-0448-01,5.5026,2020-07-21T13:18:54+00:00,/api/catalogs/579
+"FRAGMIN 5000 IU (ANTI-XA) 0.2ML DS N10",NVD11R.2.1.5,106859,2.4612,2020-07-21T13:19:00+00:00,/api/catalogs/579
+"FRAGMIN 2500 IU (ANTI-XA) 0.2ML AMP N10",NVD11R.2.1.6,10183,1.704,2020-07-21T13:19:07+00:00,/api/catalogs/579
+"Fragmin 7500 SV (anti-Xa)/0,3 ml šķīdums injekcijām pilnšļircē",NVD11R.2.1.7,05-0450,5.5472,2020-07-21T13:19:13+00:00,/api/catalogs/579
+"Fragmin 10 000 SV (anti-Xa)/0,4 ml šķīdums injekcijām pilnšļircē",NVD11R.2.1.8,05-0449,7,2020-07-21T13:19:19+00:00,/api/catalogs/579
+"Fragmin 10 000 SV (anti-Xa)/1 ml šķīdums injekcijām",NVD11R.2.1.9,00-0356,7,2020-07-21T13:19:25+00:00,/api/catalogs/579
+"CLEXANE 2000Xa/0.2ml pilnšļN10",NVD11R.2.1.10,W03484T,2.0253,2020-07-21T13:19:31+00:00,/api/catalogs/579
+"CLEXANE 4000Xa/0.4ml pilnšļN10",NVD11R.2.1.11,W03485T,2.039,2020-07-21T13:19:38+00:00,/api/catalogs/579
+"CLEXANE 6000Xa/0.6ml pilnšļ.N2",NVD11R.2.1.12,W10515T,5.0868,2020-07-21T13:19:44+00:00,/api/catalogs/579
+"LOSMINA 8000SV 0,8ml inj.N2",NVD11R.2.1.13,W00000T,7.0118,2020-07-21T13:19:50+00:00,/api/catalogs/579
+"Losmina 10000 SV (100 mg)/1 ml šķīdums injekcijām pilnšļircē",NVD11R.2.1.14,17-0112,7.25,2020-07-21T13:19:56+00:00,/api/catalogs/579
+"FRAXIPARINE 0.4ML N10",NVD11R.2.1.16,W18095C,3.7533,2020-07-21T13:20:03+00:00,/api/catalogs/579
+"FRAXIPARINE 5700UI AXA/0.6ML N10",NVD11R.2.1.17,12508,5.6084,2020-07-21T13:20:09+00:00,/api/catalogs/579
+"FRAXIPARINE 0.8ML N10",NVD11R.2.1.18,W07087C,7.467,2020-07-21T13:20:15+00:00,/api/catalogs/579
+"Fraxiparine Multidose",NVD11R.2.1.19,W07089C,21.996,2020-07-21T13:20:21+00:00,/api/catalogs/579
+"ZIBOR INJ. 2500IU ANTI-XA/ML 0.2ML N10 (ŠĻIR.)",NVD11R.2.1.20,92722,2.4353,2020-07-21T13:20:28+00:00,/api/catalogs/579
+"ZIBOR 3500 IU 0.2ml inj.N10",NVD11R.2.1.21,W55610T,3.7282,2020-07-21T13:20:34+00:00,/api/catalogs/579
+"Zibor 25000 SV anti-Xa/ml šķīdums injekcijai pilnšļircēs",NVD11R.2.1.22,06-0283,6.01,2020-07-21T13:20:41+00:00,/api/catalogs/579
+"Zibor 25000 SV anti-Xa/ml šķīdums injekcijai pilnšļircēs",NVD11R.2.1.23,06-0284,7.501,2020-07-21T13:20:47+00:00,/api/catalogs/579
+"Zibor 25000 SV anti-Xa/ml šķīdums injekcijai pilnšļircēs",NVD11R.2.1.24,06-0285,9.21,2020-07-21T13:20:53+00:00,/api/catalogs/579
+"PLAVIX FILM TBL 75MG N84",NVD11R.2.1.25,99487,0.043,2020-07-21T13:20:59+00:00,/api/catalogs/579
+"Plavix tbl 300mg N30",NVD11R.2.1.26,W31310T,2.1956,2020-07-21T13:21:06+00:00,/api/catalogs/579
+"HJERTEMAGNYL 75MG TABLETES N100",NVD11R.2.1.27,24163,0.0257,2020-07-21T13:21:12+00:00,/api/catalogs/579
+"HJERTEMAGNYL 150MG TABLETES N100",NVD11R.2.1.28,10288,0.0394,2020-07-21T13:21:19+00:00,/api/catalogs/579
+"Thrombo ASS tab.50mg N100",NVD11R.2.1.29,120231,0.0188,2020-07-21T13:21:25+00:00,/api/catalogs/579
+"THROMBO ASS 75MG TABLETES N100",NVD11R.2.1.30,93889,0.0256,2020-07-21T13:21:32+00:00,/api/catalogs/579
+"Thrombo ASS 100 mg zarnās šķīstošās tabletes",NVD11R.2.1.31,99-0214,0.0197,2020-07-21T13:21:38+00:00,/api/catalogs/579
+"Heartisan tab.150mg N60 (Ac.acetylsalic.)",NVD11R.2.1.32,1082531,0.051,2020-07-21T13:21:44+00:00,/api/catalogs/579
+"Acetilsalicilskābe Stirol 325 mg tabletes",NVD11R.2.1.33,00-0085,0.08,2020-07-21T13:21:51+00:00,/api/catalogs/579
+Ventavis,NVD11R.2.1.34,EU/1/03/255/005,17.2895,2020-07-21T13:21:57+00:00,/api/catalogs/579
+Ventavis,NVD11R.2.1.35,EU/1/03/255/001,26,2020-07-21T13:22:10+00:00,/api/catalogs/579
+"INTEGRILIN Infusion 0.75mg/ml 100mlx1",NVD11R.2.1.36,W94529T,103.85,2020-07-21T13:22:16+00:00,/api/catalogs/579
+"INTEGRILIN Injection 2mg/ml 10mlx1",NVD11R.2.1.37,W94528T,37.62,2020-07-21T13:22:23+00:00,/api/catalogs/579
+Aggrastat,NVD11R.2.1.38,W99206C,200,2020-07-21T13:22:29+00:00,/api/catalogs/579
+"Remodulin 1 mg/ml šķīdums infūzijām",NVD11R.2.1.39,07-0201,3674.9821,2020-07-21T13:22:35+00:00,/api/catalogs/579
+"Remodulin 2,5 mg/ml šķīdums infūzijām",NVD11R.2.1.40,07-0202,7569.9732,2020-07-21T13:22:41+00:00,/api/catalogs/579
+"Remodulin 5 mg/ml šķīdums infūzijām",NVD11R.2.1.41,07-0203,15373.62,2020-07-21T13:22:47+00:00,/api/catalogs/579
+Efient,NVD11R.2.1.42,EU/1/08/503/002,1.1,2020-07-21T13:22:54+00:00,/api/catalogs/579
+Efient,NVD11R.2.1.43,EU/1/08/503/009,1.1,2020-07-21T13:23:00+00:00,/api/catalogs/579
+"SOLLAZON TBL 50MG N56",NVD11R.2.1.44,120945,0.2688,2020-07-21T13:23:06+00:00,/api/catalogs/579
+"DILSATAN 100MG TBL N56",NVD11R.2.1.45,119913,0.4077,2020-07-21T13:23:12+00:00,/api/catalogs/579
+"BRILIQUE TBL 90MG N56 (K)",NVD11R.2.1.46,106930,1.1893,2020-07-21T13:23:18+00:00,/api/catalogs/579
+"Kengrexal, Pulveris injekciju vai infūziju šķīduma koncentrāta pagatavošanai, 50mg N10",NVD11R.2.1.47,W00000T,320,2020-07-21T13:23:24+00:00,/api/catalogs/579
+"DUOPLAVIN 75/100MG APV.TBL N28 (K)",NVD11R.2.1.48,105830,0.0772,2020-07-21T13:23:31+00:00,/api/catalogs/579
+"ACTILISE 50mg N1 +šķīd.",NVD11R.2.1.49,W01400T,359.1739,2020-07-21T13:23:37+00:00,/api/catalogs/579
+"Metalyse 8000 SV",NVD11R.2.1.50,"EU/1/00/169/005 ",865.27,2020-07-21T13:23:44+00:00,/api/catalogs/579
+"METALYSE 10000U (50mg/10ml) N1",NVD11R.2.1.51,W00691T,785.5839,2020-07-21T13:23:51+00:00,/api/catalogs/579
+Ceprotin,NVD11R.2.1.52,W00000T,1020,2020-07-21T13:23:57+00:00,/api/catalogs/579
+Ceprotin,NVD11R.2.1.53,W00000T,2020,2020-07-21T13:24:03+00:00,/api/catalogs/579
+"Pradaxa 75mg N30",NVD11R.2.1.54,W61400T,1.2503,2020-07-21T13:24:10+00:00,/api/catalogs/579
+"Pradaxa 110mg N60",NVD11R.2.1.55,W66402T,0.8062,2020-07-21T13:24:16+00:00,/api/catalogs/579
+"Pradaxa 150mg N60",NVD11R.2.1.56,W91150T,0.8062,2020-07-21T13:24:22+00:00,/api/catalogs/579
+"XARELTO 2,5mg N56",NVD11R.2.1.57,W14146T,1.0415,2020-07-21T13:24:28+00:00,/api/catalogs/579
+"Xarelto tab.obd.10mg N100",NVD11R.2.1.58,124350,2.6484,2020-07-21T13:24:34+00:00,/api/catalogs/579
+"Xarelto tab.obd.15mg N98",NVD11R.2.1.59,124368,1.7686,2020-07-21T13:24:41+00:00,/api/catalogs/579
+"XARELTO 20mg N98",NVD11R.2.1.60,W13159T,1.7677,2020-07-21T13:24:47+00:00,/api/catalogs/579
+"ELIQUIS 2.5MG TBL N60",NVD11R.2.1.61,116612,1.0094,2020-07-21T13:24:53+00:00,/api/catalogs/579
+"ELIQUIS 5MG TBL N60",NVD11R.2.1.62,115919,1.0094,2020-07-21T13:25:00+00:00,/api/catalogs/579
+"LIXIANA APV TBL 30MG N30 (K)",NVD11R.2.1.63,155717,1.2131,2020-07-21T13:25:06+00:00,/api/catalogs/579
+"LIXIANA APV TBL 60MG N30 (K)",NVD11R.2.1.64,155718,1.6117,2020-07-21T13:25:12+00:00,/api/catalogs/579
+"Defitelio 80mg/ml 2,5ml",NVD11R.2.1.65,EU/1/13/878/001,550,2020-07-21T13:25:18+00:00,/api/catalogs/579
+"Arixtra 2,5mg/0,5ml x 10",NVD11R.2.1.66,W07086C,6.9999,2020-07-21T13:25:24+00:00,/api/catalogs/579
+"Cyklokapron 500 mg tabletes N20",NVD11R.2.2.1,W08628C,0.601,2020-07-21T13:25:31+00:00,/api/catalogs/580
+"TachoSil (Small) 2,5x3x0,5cm",NVD11R.2.2.3,W06921T,66.8374,2020-07-21T13:25:36+00:00,/api/catalogs/580
+"TachoSil (Midi) 4,8x4,8x0,5cm",NVD11R.2.2.4,W07141T,165.4176,2020-07-21T13:25:42+00:00,/api/catalogs/580
+"TACHOSIL 9.5x4.8x0.5CM ĀRSTNIECISKAIS SŪKLIS N1",NVD11R.2.2.5,EU/1/04/277/001,300,2020-07-21T13:25:48+00:00,/api/catalogs/580
+"Octaplex 500 SV pulveris un šķīdinātājs infūziju šķīduma pagatavošanai",NVD11R.2.2.9,06-0225,306.3392,2020-07-21T13:25:54+00:00,/api/catalogs/580
+"Octanate 250 SV pulveris un šķīdinātājs injekciju šķīduma pagatavošanai",NVD11R.2.2.10,05-0047,123.6339,2020-07-21T13:26:00+00:00,/api/catalogs/580
+"Octanate 1000 SV pulveris un šķīdinātājs injekciju šķīduma pagatavošanai",NVD11R.2.2.12,05-0049,485.4196,2020-07-21T13:26:05+00:00,/api/catalogs/580
+"Nuwiq 250 SV Pulveris un šķīdinātājs injekciju šķīduma pagatavošanai",NVD11R.2.2.13,EU/1/14/936/001,269.5357,2020-07-21T13:26:11+00:00,/api/catalogs/580
+"ADVATE 500SV inj.2ml N1",NVD11R.2.2.14,W44442T,104,2020-07-21T13:26:17+00:00,/api/catalogs/580
+"ADVATE 1000SV inj.2ml N1",NVD11R.2.2.15,W44441T,206,2020-07-21T13:26:22+00:00,/api/catalogs/580
+"ADVATE 1500SV inj.2ml N1",NVD11R.2.2.16,W44440T,309,2020-07-21T13:26:28+00:00,/api/catalogs/580
+"NUWIQ 2000SV pulv.+šķīd.inj.N1",NVD11R.2.2.17,W99443T,398,2020-07-21T13:26:34+00:00,/api/catalogs/580
+"Feiba 500",NVD11R.2.2.18,W00000T,398.81,2020-07-21T13:26:40+00:00,/api/catalogs/580
+"Feiba 1000",NVD11R.2.2.19,W44448T,797.59,2020-07-21T13:26:45+00:00,/api/catalogs/580
+"OCTANINE 500IU 5ML N1",NVD11R.2.2.20,W19460T,184.97,2020-07-21T13:26:51+00:00,/api/catalogs/580
+"Immunine 600",NVD11R.2.2.21,W00000T,231.75,2020-07-21T13:26:57+00:00,/api/catalogs/580
+"OCTANINE 1000IU 10ML N1",NVD11R.2.2.22,W19461T,369.95,2020-07-21T13:27:02+00:00,/api/catalogs/580
+"Immunine 1200",NVD11R.2.2.23,W00000T,463.5,2020-07-21T13:27:08+00:00,/api/catalogs/580
+"Factor VII Baxalta",NVD11R.2.2.24,W00000T,261.62,2020-07-21T13:27:14+00:00,/api/catalogs/580
+"IMMUNATE 1000/750SV inj10ml N1",NVD11R.2.2.27,W44446T,206,2020-07-21T13:27:19+00:00,/api/catalogs/580
+"NovoSeven 1 mg (50 KSV) Pulveris un šķīdinātājs injekciju šķīduma pagatavošanai",NVD11R.2.2.30,EU/1/96/006/008,926.366,2020-07-21T13:27:25+00:00,/api/catalogs/580
+"NovoSeven 2 mg (100 KSV) Pulveris un šķīdinātājs injekciju šķīduma pagatavošanai",NVD11R.2.2.31,EU/1/96/006/009,1820.0803,2020-07-21T13:27:31+00:00,/api/catalogs/580
+"DICYNON 250mg/2ml amp.N50",NVD11R.2.2.32,W09086T,0.2531,2020-07-21T13:27:36+00:00,/api/catalogs/580
+"DICYNON tabl.250mg N100",NVD11R.2.2.33,W01471T,0.0956,2020-07-21T13:27:42+00:00,/api/catalogs/580
+"Nplate Pulveris un šķīdinātājs injekciju šķīduma pagatavošanai",NVD11R.2.2.34,EU/1/08/497/005,723.2321,2020-07-21T13:27:48+00:00,/api/catalogs/580
+Revolade,NVD11R.2.2.35,W00000T,35.725,2020-07-21T13:27:53+00:00,/api/catalogs/580
+"FERRUM-LEK košļ.tabl.100mg N30",NVD11R.2.3.1,W00538T,0.183,2020-07-21T13:28:00+00:00,/api/catalogs/581
+"FERRUM-LEK 50mg/5ml sīr.100ml",NVD11R.2.3.2,W06550T,6.7739,2020-07-21T13:28:06+00:00,/api/catalogs/581
+"Idafer 20 mg/ml šķīdums injekcijām",NVD11R.2.3.3,98-0243,9.9506,2020-07-21T13:28:12+00:00,/api/catalogs/581
+"MONOFER sol.inj.100mg/1ml N5",NVD11R.2.3.4,W20301T,16.9887,2020-07-21T13:28:17+00:00,/api/catalogs/581
+"Ferinject 50 mg dzelzs/ml šķīdums injekcijām/infūzijām",NVD11R.2.3.5,08-0017-04,145,2020-07-21T13:28:23+00:00,/api/catalogs/581
+"CosmoFer 50 mg/ml šķīdums infūzijām un injekcijām",NVD11R.2.3.6,07-0132,8.7535,2020-07-21T13:28:29+00:00,/api/catalogs/581
+"Orfarin 3 mg tabletes",NVD11R.2.1.1,00-0042,0.0602,2020-07-21T20:32:47+00:00,/api/catalogs/579
+"Orfarin 5 mg tabletes",NVD11R.2.1.2,00-0043,0.0724,2020-07-21T20:32:53+00:00,/api/catalogs/579
+"Heparīna nātrijs Panpharma 25000 SV/5 ml šķīdums injekcijām flakonos",NVD11R.2.1.3,99-0448-01,5.5026,2020-07-21T20:33:00+00:00,/api/catalogs/579
