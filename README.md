@@ -14,3 +14,7 @@ Installation
 - php bin/console server:run 
   or install Symfony package from symfony.com
 - symfony serve
+
+P.s. if real Chrome webserver not run please check \vendor\symfony\panther\chromedriver-bin\
+1) run script update.sh
+2) check filename in Windows should be chromedriver.exe If filename is chromedriver_win32.exe please rename.
