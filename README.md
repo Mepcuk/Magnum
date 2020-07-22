@@ -21,10 +21,9 @@ Run webserver
   or install Symfony package from symfony.com
 - symfony serve
 
-For API please follow https://127.0.0.1:8000/api
+For API please follow https://127.0.0.1:8000/api you will be redirected to login form
 username - info@magnum.com
 password - 123
-//TODO Web based authentication not completed, need add form register and login.
 
 Please use postman for checking with token below
 Token - a0a5e1842d3fb3d333c84ead96ff9569854e8b56eeb81db235403c3d2e70b15d0a6344eda94bdce9086f54c52a6e678624397be5356f8a6f2cf0495a
