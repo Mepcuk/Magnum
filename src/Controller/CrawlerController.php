@@ -93,6 +93,10 @@ class CrawlerController extends AbstractController
             if (!$catalog) {
 //                dd($value);
                 $this->addCatalog($value['categoryName'], ($value['categoryLink']), $parentId, 1);
+                $catalog = $catalogRepository->findOneBy([
+                    'description'   => $value['categoryName'],
+                    'link'          => $value['categoryLink']
+                ]);
             }
                 $browser->request('GET', 'https://www.eis.gov.lv/EIS/Categories/CategoryList.aspx?CategoryId=' . $value['categoryLink']);
 
