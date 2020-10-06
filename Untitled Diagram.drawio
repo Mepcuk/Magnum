@@ -1,83 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T07:17:55.606Z" agent="5.0 (X11)" etag="ePN0Vg9pfMVPRUiU9_on" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T08:00:26.428Z" agent="5.0 (X11)" etag="KVo2gxkjpl4_JTupa_Tx" version="13.7.7" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="3975" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="7850" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n017cbdm8rM538X0vNHp-84" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="2610" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-83" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#FF0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1877.6" y="350" width="2090" height="1570" as="geometry" />
+        </mxCell>
         <mxCell id="d5ac148becb70bc-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dashedArrowlessEdge;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="840" y="564" width="1432" height="816" as="geometry" />
+          <mxGeometry x="1061.29" y="472.2" width="1403.22" height="799.6" as="geometry" />
         </mxCell>
         <mxCell id="d5ac148becb70bc-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dashedArrowlessEdge;fillColor=#000000;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;fontColor=#000000;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="592" y="564" width="248" height="141" as="geometry" />
+          <mxGeometry x="798.9" y="464" width="248" height="141" as="geometry" />
         </mxCell>
         <mxCell id="d5ac148becb70bc-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dashedArrowlessEdge;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2023" y="1378" width="249" height="142" as="geometry" />
+          <mxGeometry x="2229.9" y="1278" width="249" height="142" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.dashedArrowlessEdge;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="590" y="710" width="1432" height="816" as="geometry" />
+          <mxGeometry x="796.9" y="610" width="1432" height="816" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatEdge;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="810" width="324.65" height="184.93" as="geometry" />
+          <mxGeometry x="756.9" y="710" width="324.65" height="184.93" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="317" y="901.2" width="215.2" height="238.8" as="geometry" />
+          <mxGeometry x="523.9" y="801.2" width="215.2" height="238.8" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1570" width="266.83" height="228.1" as="geometry" />
-        </mxCell>
-        <mxCell id="n017cbdm8rM538X0vNHp-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="840" y="670" width="251.6" height="170" as="geometry" />
+          <mxGeometry x="1496.9" y="1470" width="266.83" height="228.1" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="860" width="251.6" height="170" as="geometry" />
+          <mxGeometry x="1355.9" y="760" width="251.6" height="170" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1070" width="251.6" height="170" as="geometry" />
+          <mxGeometry x="1716.9" y="970" width="251.6" height="170" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatEdge;fillColor=#000000;aspect=fixed;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1210" width="345.11" height="196.59" as="geometry" />
+          <mxGeometry x="1396.9" y="1110" width="345.11" height="196.59" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application2;fillColor=#86E83A;strokeColor=#B0F373;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1370" width="260.87" height="223" as="geometry" />
+          <mxGeometry x="1166.9" y="1270" width="260.87" height="223" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1260" width="251.6" height="170" as="geometry" />
+          <mxGeometry x="2026.9" y="1160" width="251.6" height="170" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatEdge;fillColor=#000000;aspect=fixed;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1400" width="345.11" height="196.59" as="geometry" />
+          <mxGeometry x="1726.9" y="1300" width="345.11" height="196.59" as="geometry" />
         </mxCell>
-        <mxCell id="n017cbdm8rM538X0vNHp-15" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis produktu D cenu izmaiņas pieprasījums&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Nr.4&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="520" width="303" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="n017cbdm8rM538X0vNHp-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Katalogu skenēšana&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="273.1" y="1170" width="303" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="n017cbdm8rM538X0vNHp-17" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis produktu C cenu izmaiņas pieprasījums&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Nr.3&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1323" y="670" width="303" height="140" as="geometry" />
+        <mxCell id="n017cbdm8rM538X0vNHp-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Kataloga skenēšana ar CURL&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1070" width="303" height="140" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-18" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis produktu B cenu izmaiņas pieprasījums&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Nr.2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="910" width="303" height="140" as="geometry" />
+          <mxGeometry x="1956.9" y="810" width="303" height="140" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-19" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Rinda ar pieprasījumiem&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="500" width="303" height="140" as="geometry" />
+          <mxGeometry x="706.9" y="400" width="303" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="n017cbdm8rM538X0vNHp-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis konts A&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Cenu izmaiņas mehānisms&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1570" width="303" height="140" as="geometry" />
+        <mxCell id="n017cbdm8rM538X0vNHp-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis konts A&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Cenu izmaiņas mehānisms ar Chrome&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="956.9" y="1470" width="303" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="n017cbdm8rM538X0vNHp-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis konts B&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Cenu izmaiņas mehānisms&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1770" width="303" height="140" as="geometry" />
+        <mxCell id="n017cbdm8rM538X0vNHp-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis konts B&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Cenu izmaiņas mehānisms ar Chrome&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1276.9" y="1670" width="303" height="140" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;shadow=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="810" width="122.98" height="71.2" as="geometry" />
+          <mxGeometry x="1246.9" y="710" width="122.98" height="71.2" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;shadow=0;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1400.6" y="1010" width="122.98" height="71.2" as="geometry" />
+          <mxGeometry x="1607.5" y="910" width="122.98" height="71.2" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-30" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1190" width="40" height="20" as="geometry" />
+          <mxGeometry x="1056.9" y="1090" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n017cbdm8rM538X0vNHp-31" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis produktu A cenu izmaiņas pieprasījums&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Nr.1&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="1081.2" width="303" height="140" as="geometry" />
+          <mxGeometry x="2286.9" y="981.2" width="303" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="750.0000000000001" width="215.2" height="238.8" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-33" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Kataloga skenēšana ar Chrome&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="1060" width="303" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1016.9000000000001" y="560.0000000000001" width="251.6" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1148.4" y="1072.8" width="251.6" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;shadow=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-1258.4" y="997.2" width="122.98" height="71.2" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.worker;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-773.82" y="1303" width="251.6" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowhead;aspect=fixed;shadow=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-896.8000000000002" y="1238.8" width="122.98" height="71.2" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-41" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis produktu A cenu izmaiņas pieprasījums&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Nr.1&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="1440" width="303" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-42" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Eis produktu B cenu izmaiņas pieprasījums&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Nr.2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="1238.8" width="303" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-45" value="&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas ielāde 2-4 sek&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas apstrāde&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;2-4 sek&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="540" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-47" value="&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Produkta lapas ielāde 2-4 sek&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas apstrāde&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;2 sek&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="840" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-48" value="&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Produkta lapas ielāde 2-4 sek&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas apstrāde&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;2 sek&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="1072.8" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-74" value="&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas ielāde 1-2 sek&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas apstrāde&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;0.1 - 0.5 sek&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300.0000000000001" y="572.2" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-75" value="&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Produkta lapas ielāde 2-4 sek&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas apstrāde&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;2 sek&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1040" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-76" value="&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Produkta lapas ielāde 2-4 sek&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;Mājas lapas apstrāde&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;2 sek&lt;br&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFCCE6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="1508.1000000000001" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Apstrādes laiks 2 produktiem Kopā min laiks 12 sek &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;- max 20 sek&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFB366;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1510" width="490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="n017cbdm8rM538X0vNHp-85" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Apstrādes laiks 2 produktiem ar 1 Chrome min laiks 9 sek &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;- max 14 sek&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;ar 2 Chrome klientiem&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;min 5 sek - max 8.5 sek&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#FFB366;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1493" width="490" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
